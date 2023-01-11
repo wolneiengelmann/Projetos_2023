@@ -1,1 +1,1 @@
-console.log("hello World!"); //primeiro cod
+console.log("hello World! this is the first code");
